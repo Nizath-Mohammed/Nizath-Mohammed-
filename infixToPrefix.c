@@ -67,5 +67,5 @@ int main()
     scanf("%s",infix);
     infix_to_prefix(infix,prefix);
     printf("%s\n",prefix);
-
+    printf("%s\n",infix);
 }
