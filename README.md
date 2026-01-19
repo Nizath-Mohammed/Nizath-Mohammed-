@@ -29,7 +29,7 @@ Repository for Nizath-Mohammed-.
 - List key features here.
 
 ## Tech Stack
-- List primary technologies used.
+- C
 
 ## Getting Started
 Prerequisites:
@@ -40,13 +40,12 @@ Prerequisites:
 `ash
 git clone https://github.com/Nizath-Mohammed/Nizath-Mohammed-.git
 cd Nizath-Mohammed-
-# add setup steps here
 `
 
+
+
 ## Usage
-`ash
-# add usage commands here
-`
+
 
 ## Scripts
 - Document useful scripts or commands.
